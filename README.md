@@ -24,4 +24,4 @@ Visualization tool with R,Python
 ## 데이터 EDA
 1. visualization01.ipynb
 
-: 공공 데이터를 가져와서 데이터 가공, 준비 및 시각화 도구 사용. (서울시 공공 wifi dataset + 행정구역 geojson 
+: 공공 데이터를 가져와서 데이터 가공, 준비 및 시각화 도구 사용. (서울시 공공 wifi dataset + 행정구역 geojson)
